@@ -1,6 +1,6 @@
 # ☁️ Nimbus Notes
 
-> **Cloud Storage for Your Thoughts** — Aplikasi pencatatan berbasis web dengan tema cloud, dibangun menggunakan HTML, CSS, dan JavaScript murni.
+> **Cloud Storage for Your Thoughts** Aplikasi pencatatan berbasis web dengan tema cloud, dibangun menggunakan HTML, CSS, dan JavaScript murni.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -24,7 +24,7 @@ Project ini dikerjakan sebagai tugas **Project Pekan 9** mata kuliah **Cloud Com
 | ➕ **Tambah Catatan** | Input judul, pilih tag, tulis isi, simpan dengan tombol atau `Ctrl+Enter` |
 | 🗑️ **Hapus Catatan** | Tombol hapus muncul saat hover pada kartu catatan |
 | 🔍 **Pencarian Real-time** | Filter catatan langsung saat mengetik |
-| 🏷️ **Sistem Tag** | 4 kategori: 💡 Idea, ✅ Task, 📎 Reference, 📝 Note |
+| 🏷️ **Sistem Tag** | 4 kategori: Idea, Task, Reference, Note |
 | 🔽 **Filter Tab** | Saring catatan berdasarkan kategori tag |
 | 🕐 **Jam Real-time** | Waktu diperbarui setiap detik |
 | 📊 **Statistik** | Total catatan, catatan hari ini, total karakter |
