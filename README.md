@@ -11,7 +11,7 @@
 
 ## 📋 Deskripsi Project
 
-Nimbus Notes adalah aplikasi manajemen catatan modern berbasis cloud yang memungkinkan pengguna untuk membuat, menyimpan, mencari, dan mengelola catatan langsung di browser. Data disimpan secara persisten menggunakan **LocalStorage API** sebagai simulasi cloud storage sisi klien — tidak memerlukan server atau koneksi internet.
+Nimbus Notes adalah aplikasi manajemen catatan modern berbasis cloud yang memungkinkan pengguna untuk membuat, menyimpan, mencari, dan mengelola catatan langsung di browser. Data disimpan secara persisten menggunakan **LocalStorage API** sebagai simulasi cloud storage sisi klien tidak memerlukan server atau koneksi internet.
 
 Project ini dikerjakan sebagai tugas **Project Pekan 9** mata kuliah **Cloud Computing**, mendemonstrasikan pengelolaan source code menggunakan Git dan GitHub.
 
@@ -124,10 +124,10 @@ git push -u origin main
 
 ---
 
-*Nimbus Notes — Built for Cloud Computing coursework, Week 9 P13*
+*Nimbus Notes Built for Cloud Computing coursework, Week 9 P13*
 
 ## 👨‍💻 Author
 
 Developed by zippynx using HTML, CSS, and JavaScript
 
-Happy Coding! 🙌
+Happy Coding! 🙌 
